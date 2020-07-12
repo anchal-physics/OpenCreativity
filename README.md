@@ -33,7 +33,7 @@ or anything to show or talk about really.
 
   Using one of the 7 phrases, draw a sketch in 5 minutes.
 
-### 5) Open min invitation
+### 5) Open mic invitation
 
 ### 6) Games Session III:
 * [Total9](https://github.com/anchal-physics/OpenCreativity/blob/master/Total9.txt)
