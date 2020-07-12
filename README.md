@@ -25,7 +25,7 @@ or anything to show or talk about really.
 ### 4) Games Session II:
 * Describe the scene:
 
-  Imagine you are an author writing a fiction. Using the one of the 4
+  Imagine you are an author writing a fiction. Using one of the 4
   paintings, describe an imagined scene as an opening of a chapter in your
   book. It can be very different from the painting. Painting is only for
   inspiration.
@@ -36,11 +36,11 @@ or anything to show or talk about really.
 ### 5) Open min invitation
 
 ### 6) Games Session III:
-* [Total9]()
-* [Look away from what you are creating]()
+* [Total9](https://github.com/anchal-physics/OpenCreativity/blob/master/Total9.txt)
+* [Look away from what you are creating](https://github.com/anchal-physics/OpenCreativity/blob/master/LookAwayFromWhatYouAreCreating.txt)
 
 ### 7) Open mic invitation
 
 ### 8) Games Session IV:
-* Scenes Cut from a Movie:
-* Complete the figure.
+* [Scenes Cut from a Movie](https://github.com/anchal-physics/OpenCreativity/blob/master/ScenesCutFromMovie.txt)
+* Complete the figure
